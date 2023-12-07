@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-I'm Qianyun(24) 😋.
+I'm Qianyun.
 
 I recently graduated with a master's degree in computer science from Technical University of Munich (Oct. 2023) 🎓.
 
@@ -27,7 +27,7 @@ I'm currently looking for full-time jobs 💼.
 
 </details>
   
-Feel free to contact me.
+Feel free to contact me 😋.
 <br><br>
 <a href="https://t.me/Jasmineqy0" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40Jasmineqy0-28a8ea"></a>
 <a href="https://linkedin.com/in/qian-yun-li" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Qianyun Li-informational"></a>
